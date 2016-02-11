@@ -1,0 +1,18 @@
+[
+    "index.md",
+    [
+        "progressive-web-apps.html",
+        "features-of-pwa.html",
+        "browser-support.html"
+    ],
+    [
+        "offline.html",
+        "sw-installation-steps.html",
+        "sw-installation.html",
+        "cache-a-request.html",
+        "update-sw.html",
+        "sw-example.html",
+        "sw-reference.html"
+    ],
+    "installable-web-apps.html"
+]

@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Offline Web Application",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "gokulkrishh",
+    "githubRepository": "gokulkrishh.github.io/demo"
+  }
+}

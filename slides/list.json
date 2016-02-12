@@ -15,5 +15,11 @@
         "sw-example.html",
         "sw-reference.html"
     ],
-    "installable-web-apps.html"
+    [
+      "installable-web-apps.html",
+      "installable-webapps-example.html",
+      "Installtion-Example.html",
+      "Splash-screen.html",
+      "standalone.html"
+    ]
 ]

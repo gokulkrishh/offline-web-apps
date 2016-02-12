@@ -44,3 +44,11 @@ button {
   font-size: 20px;
   border-radius 3px;
 }
+
+.example-img {
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin: 0 auto !important;
+  text-align: center;
+}

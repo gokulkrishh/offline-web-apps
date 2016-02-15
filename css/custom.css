@@ -52,3 +52,13 @@ button {
   margin: 0 auto !important;
   text-align: center;
 }
+
+.w-70 {
+  width: 50%;
+  margin-top: 100px;
+}
+
+.blk-small {
+  display: block !important;
+  margin-bottom: 50px !important;
+}

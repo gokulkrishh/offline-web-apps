@@ -20,6 +20,10 @@
       "installable-webapps-example.html",
       "Installtion-Example.html",
       "Splash-screen.html",
-      "standalone.html"
-    ]
+      "standalone.html",
+      "Application-Shell-Architecture.html",
+      "manifest-reference.html"
+    ],
+    "examples-pwa.html",
+    "thanks.html"
 ]
